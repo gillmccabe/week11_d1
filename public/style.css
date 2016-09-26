@@ -1,0 +1,45 @@
+body{
+  background-color: #EFFFE9;
+}
+
+#navbar{
+  background-color: #EFFFE9;
+  border-bottom: 2px solid #2EC4B6;
+  position: relative;
+  height: 130px;
+  margin-bottom: 30px;
+}
+
+#title{
+  padding: 10px;
+  vertical-align: middle;
+  font-size: 58px;
+  color: #ef5285;
+}
+
+ul{
+  padding: 30px;
+  list-style-type: none;
+}
+
+li{
+  color: #ef5285;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  font-size: 20px;
+}
+
+img{
+  padding: 10px;
+  border:1px solid #021a40;
+  background-color: #2EC4B6;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+.red-quote{
+  color: red;
+}
